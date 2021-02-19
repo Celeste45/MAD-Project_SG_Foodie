@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912164619130",
+    "project_id": "sg-foodie-fe401",
+    "storage_bucket": "sg-foodie-fe401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912164619130:android:4b6894ece00fc01df2ccc3",
+        "android_client_info": {
+          "package_name": "com.celeste.sg_foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912164619130-l2knefd9o9fqob26nb7u89mrv9tpbmef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1weEIVxb2kJGhSDal-7H5pF5DByp5Wdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912164619130-l2knefd9o9fqob26nb7u89mrv9tpbmef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
